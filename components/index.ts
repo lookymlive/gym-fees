@@ -7,3 +7,12 @@ export { StatusBadge } from './StatusBadge';
 export { States } from './States';
 export { ReminderModal } from './ReminderModal';
 export { ErrorBoundary } from './ErrorBoundary';
+export {
+  KpiSkeleton,
+  TableRowSkeleton,
+  CardSkeleton,
+  FormFieldSkeleton,
+  ModalSkeleton,
+  AvatarSkeleton,
+  BadgeSkeleton,
+} from './Skeleton';
