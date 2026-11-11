@@ -6,3 +6,4 @@ export { Sidebar } from './Sidebar';
 export { StatusBadge } from './StatusBadge';
 export { States } from './States';
 export { ReminderModal } from './ReminderModal';
+export { ErrorBoundary } from './ErrorBoundary';
